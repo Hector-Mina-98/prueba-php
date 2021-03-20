@@ -1,8 +1,8 @@
 # prueba-php
 
 ##Consideraciones:
-los datos para la conexión de la BD y la URL de la página están en el archivo "config/config.php"
-
+-los datos para la conexión de la BD y la URL de la página están en el archivo "config/config.php"
+-el proyecto va en una carpeta llamada "prueba"
 
 Query para crear la misma tabla en la Base de datos:
 
